@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ATP-Lista0-Ambientacao/1.0.0": {
+        "runtime": {
+          "ATP-Lista0-Ambientacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATP-Lista0-Ambientacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\bin\Debug\net9.0\ATP-Lista0-Ambientacao.exe
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\bin\Debug\net9.0\ATP-Lista0-Ambientacao.deps.json
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\bin\Debug\net9.0\ATP-Lista0-Ambientacao.runtimeconfig.json
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\bin\Debug\net9.0\ATP-Lista0-Ambientacao.dll
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\bin\Debug\net9.0\ATP-Lista0-Ambientacao.pdb
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\ATP-Lista0-Ambientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\ATP-Lista0-Ambientacao.AssemblyInfoInputs.cache
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\ATP-Lista0-Ambientacao.AssemblyInfo.cs
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\ATP-Lista0-Ambientacao.csproj.CoreCompileInputs.cache
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\ATP-Lista0-Ambientacao.dll
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\refint\ATP-Lista0-Ambientacao.dll
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\ATP-Lista0-Ambientacao.pdb
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\ATP-Lista0-Ambientacao.genruntimeconfig.cache
+C:\Users\1442428\Downloads\ATP-Lista0-Ambientacao\obj\Debug\net9.0\ref\ATP-Lista0-Ambientacao.dll
